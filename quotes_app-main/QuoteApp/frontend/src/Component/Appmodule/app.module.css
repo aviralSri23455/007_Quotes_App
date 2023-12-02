@@ -1,0 +1,9 @@
+/* App.module.css */
+.app-container {
+    background-image: url('../Appmodule/img/img-1.png'); /* Adjust the path to your image file */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+  }
+  

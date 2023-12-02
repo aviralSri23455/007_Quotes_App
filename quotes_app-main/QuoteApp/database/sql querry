@@ -1,0 +1,5 @@
+CREATE TABLE quotes (
+    id INTEGER PRIMARY KEY,
+    quote_text TEXT NOT NULL,
+    author_name VARCHAR(255) NOT NULL
+)
